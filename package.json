@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "BROWSER=none netlify dev"
+  },
+  "dependencies": {
+    "@netlify/functions": "^1.0.0",
+    "@supabase/supabase-js": "^1.30.6",
+    "node-fetch": "^3.2.0"
+  }
+}
